@@ -1,0 +1,4 @@
+﻿  Calculator_16_Nagnibida_A_I.cpp
+C:\Users\academy\source\repos\Calculator_16_Nagnibida_A_I\Calculator_16_Nagnibida_A_I\Calculator_16_Nagnibida_A_I.cpp(25,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\academy\source\repos\Calculator_16_Nagnibida_A_I\Calculator_16_Nagnibida_A_I\Calculator_16_Nagnibida_A_I.cpp(25,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\academy\source\repos\Calculator_16_Nagnibida_A_I\Calculator_16_Nagnibida_A_I\Calculator_16_Nagnibida_A_I.cpp(26,3): error C2059: синтаксическая ошибка: строка
